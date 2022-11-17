@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Simbo Software](https://simbo.cl)
 
+- 👯 I’m looking for a **new job**
+
 - 💬 Ask me about **my software skills and AWS**
 
 - 📫 How to reach me **ctalvarez@uc.cl**
