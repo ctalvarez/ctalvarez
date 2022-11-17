@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Alvarez</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h3 align="center">A passionate fullstack developer from Chile</h3>
 
 - 🔭 I’m currently working on [Simbo Software](https://simbo.cl)
 
